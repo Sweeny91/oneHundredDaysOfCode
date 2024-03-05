@@ -13,3 +13,7 @@ Completed projects Day 1 - Day 4:
 4.) Rock Paper Scissors
 
 ## 3/4/24:
+Completed Day 5:
+5.) Password Generator
+
+## 3/5/24:
