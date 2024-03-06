@@ -17,5 +17,6 @@ Completed Day 5:
 5.) Password Generator
 
 ## 3/5/24:
-Day 6:
-6.) Escape The Maze
+Completed Day 6:
+6.) Escaping The Maze : This mini-project was completed on "Reeborg's World" and helped reinforce the idea of how while loops are used. I used the built in functions in the game to allow the character to solve the maze no matter where it starts in the maze or what direction it initially faces.
+
