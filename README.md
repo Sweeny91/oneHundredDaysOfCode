@@ -17,3 +17,5 @@ Completed Day 5:
 5.) Password Generator
 
 ## 3/5/24:
+Day 6:
+6.) Escape The Maze
