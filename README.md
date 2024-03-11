@@ -26,5 +26,12 @@ Completed Day 6:
 ## 3/7/24:
 Completed Day 7:  
 
-6.) Hangman
+7.) Hangman
+
+
+## 3/11/24:
+Completed Day 8:  
+
+8.) Caesar's Cipher
+
 
